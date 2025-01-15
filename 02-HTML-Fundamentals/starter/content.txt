@@ -1,4 +1,4 @@
-📘 The Code Magazine
+📘 <h1>The Code Magazine</h1>
 
 The Basic Language of the Web: HTML
 
